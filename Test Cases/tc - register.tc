@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc - register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd279c18-ec8d-4936-a931-3e5b1e086d48</testCaseGuid>
+   <variable>
+      <defaultValue>'testingajaa@gmail.com'</defaultValue>
+      <description></description>
+      <id>b8441664-de0a-47a3-b257-8eb9508a3098</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'pass1234'</defaultValue>
+      <description></description>
+      <id>6830f148-5aae-432a-9e40-5e57508277d1</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'pass1234'</defaultValue>
+      <description></description>
+      <id>3a6d8057-6391-4212-b8dd-73f526bf1dc8</id>
+      <masked>false</masked>
+      <name>confirmpassword</name>
+   </variable>
+   <variable>
+      <defaultValue>'dwinata'</defaultValue>
+      <description></description>
+      <id>4a8421fa-c53e-4ea0-8281-dd5bc1027799</id>
+      <masked>false</masked>
+      <name>firstname</name>
+   </variable>
+   <variable>
+      <defaultValue>'saragih'</defaultValue>
+      <description></description>
+      <id>273c4a9b-4d03-440b-964c-2c20fae3d900</id>
+      <masked>false</masked>
+      <name>lastname</name>
+   </variable>
+   <variable>
+      <defaultValue>'0852436527'</defaultValue>
+      <description></description>
+      <id>6c94f29b-a8a9-436b-b482-a70ff246fb5e</id>
+      <masked>false</masked>
+      <name>phonenumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'KOTA JAKARTA SELATAN'</defaultValue>
+      <description></description>
+      <id>b4b42176-83de-4737-9608-418d7d29e121</id>
+      <masked>false</masked>
+      <name>kota</name>
+   </variable>
+   <variable>
+      <defaultValue>'Selamat Datang di Cermati!'</defaultValue>
+      <description></description>
+      <id>41dea64a-c6fc-46e7-b44f-0711d4fdca12</id>
+      <masked>false</masked>
+      <name>notification</name>
+   </variable>
+</TestCaseEntity>
